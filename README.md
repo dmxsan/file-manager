@@ -1,2 +1,2 @@
-# file-manager
-This is the data store for all of my prototype
+# File Manager for cekrutebus
+This is the data store for all of the data used in cekrutebus platform
